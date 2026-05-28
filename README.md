@@ -79,11 +79,4 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeerawatTan&show_icons=true&theme=tokyonight" alt="TeerawatTan's GitHub stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeerawatTan&layout=compact&theme=tokyonight" alt="Top Langs" height="180">
-</p>
-
----
 📬 **📫 How to reach me:** สามารถตรวจสอบดู Source Code หรือพูดคุยเกี่ยวกับโปรเจกต์ Enterprise API และโครงสร้างระบบคลาวด์ได้ที่ [GitHub Repositories](https://github.com/TeerawatTan?tab=repositories) ของผมได้ทันทีครับ

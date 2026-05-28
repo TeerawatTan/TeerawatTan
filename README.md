@@ -38,8 +38,7 @@
 ## 🚀 Highlighted Tech Stack Badges
 <p align="left">
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core">
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQGRHI-Lb_sWeQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1684936949564?e=2147483647&v=beta&t=UruhCVgehVG_v3AaGXWUMdO0n2jOsQx1krA5WYk3vKg" alt="C#.NET Core">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
   <br>

@@ -15,17 +15,20 @@
 ## 🛠️ Technical Skills Matrix
 
 ### 🌟 Core Strengths & Data Access
-* **Languages & Frameworks:** `C#` / `ASP.NET Core (Web API & MVC)` / `Node.js` / `NestJS`
+* **Languages & Frameworks:**
+  * `C#` / `ASP.NET Core (Web API & MVC)` (Strongest)
+  * `Javascript` / `Node.js` / `NestJS`
 * **Data Access & ORM Tools:** 
-  * 🥇 **Dapper** *(Strongest Competency - Expert in High-Performance & Raw SQL Tuning)*
   * `Entity Framework Core`
   * `LinQ`
+  * `Dapper`
 
 ### 🗄️ Database Management (Polyglot Persistence)
 * **Relational Database (SQL):** `SQL Server` / `PostgreSQL` / `MySQL` / `MariaDB`
 * **NoSQL & Cloud Databases:** `Cassandra` / `MongoDB (Atlas)` / `Firebase Realtime Database & Firestore`
 
 ### 🐳 DevOps, Servers & Infrastructure
+* **OS:** `Linux Server` / `Window Server`
 * **Containerization:** `Docker` / `Docker Compose`
 * **Web Servers & Reverse Proxy:** `Nginx` / `IIS (Internet Information Services)`
 
